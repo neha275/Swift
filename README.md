@@ -8,6 +8,10 @@
 ## Free icon for App
 - https://icons8.com/
 - https://www.flaticon.com/
+- https://fonts.google.com/icons?selected=Material+Icons
+- https://thenounproject.com
+- https://feathericons.com
+- https://www.iconshock.com
 
 ## Convert App icon into different size
 - https://appicon.co
